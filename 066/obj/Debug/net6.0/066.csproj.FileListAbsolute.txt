@@ -1,0 +1,15 @@
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\bin\Debug\net6.0\066.exe
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\bin\Debug\net6.0\066.deps.json
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\bin\Debug\net6.0\066.runtimeconfig.json
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\bin\Debug\net6.0\066.dll
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\bin\Debug\net6.0\066.pdb
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\066.csproj.AssemblyReference.cache
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\066.AssemblyInfoInputs.cache
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\066.AssemblyInfo.cs
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\066.csproj.CoreCompileInputs.cache
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\066.dll
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\refint\066.dll
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\066.pdb
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\066.genruntimeconfig.cache
+C:\Users\Дамир\Desktop\Программирование\C#\seminar\HomeWork009\066\obj\Debug\net6.0\ref\066.dll
